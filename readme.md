@@ -1,1 +1,1 @@
-firebase-crud
+firebase-cruds
